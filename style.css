@@ -1,55 +1,8 @@
-.link{
-      text-decoration: none;
-      color: white;
+p{font-family: "Roboto", sans-serif;}
 
-}
-
-.lista{
-      list-style: none;
-}
-
-header{
-       font-family: "Orbitron", sans-serif;
-}
-
-h2,p{
-        font-family: "Roboto", sans-serif;
-}
-
-h2{ 
-    color: rgb(218, 75, 23);
-
-}
-
-h1{
-    color: rgb(6, 115, 6);
-}
-
-nav{
-   
-    background-color: rgb(37, 44, 111);
-    background-repeat: no-repeat;
-    background-size: auto;
-    
-    
-}
-nav :hover {
-    background-color: brown;
-}
-
-body{
-     background-image: url(./media/sfondo-desktop-neutro-qwhbvghefdh8k68s.jpg);
-     background-size: cover;
-     background-position: center;
-     height: 50vh;
-     
-    
-    
-}
-
-div{
-    text-align: center;
-
-}
+h1, h2{font-family: "Electrolize", sans-serif;}
 
 
+div  li{
+    color: brown;
+}     
